@@ -5,9 +5,9 @@
 ####  Welcome my github profile!😁
 I am currently majoring in computer science
 <br/>
-I am interested in the Front-End development and developing in that field
+I am currently developing web services and responsible for front-end development
 <br/>
-I'm currently studying the Back-End part
+I'm currently studying the back-end development
   
  <br/>
  <br/>
