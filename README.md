@@ -4,6 +4,8 @@
 호기심이 많고, 문제를 끝까지 해결하려는 집념이 강한 최민수입니다!
 
 <img src="https://github.com/user-attachments/assets/b1fb013c-6fed-4254-892d-41c8ad8ae760" width=100>
+
+<br/>
 <br/>
 
 ## 📚 Project
@@ -14,6 +16,8 @@
 | <p align="center"> 2023.11 ~ 2023.12 </p> | <p align="center"> 사과마켓 </p> | 중고 물품을 경매를 사고 파는 거래 서비스 | <p align="center"> 팀 리더 <br/> 프론트엔드 <br/> 백엔드 개발 </p> | <p align="center"> 팀 프로젝트 </p> |
 | <p align="center"> 2023.04 ~ 2023.05 </p> | <p align="center"> AI 머리 염색 </p> | Stable Diffusion을 이용한 머리 염색 이미지 생성기 | <p align="center"> 프론트엔드 개발 <br/> 백엔드 개발 </p> | <p align="center"> 개인 프로젝트 </p> |
 | <p align="center"> 2023.03 ~ 2023.05 </p> | <p align="center"> HealthBit </p> | 블록체인 기반의 의료 정보 관리 서비스 | <p align="center"> 프론트엔드 개발 </p> | <p align="center"> 팀 프로젝트 </p> |
+
+<br/>
 <br/>
   
 ## 🖥️ Tech Stack
