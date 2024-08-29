@@ -1,10 +1,8 @@
-<div>
-
-## 🧑🏻‍💻 Welcome to minnnisu Github
+## 🙋🏻 Welcome to minnnisu Github
 호기심이 많고, 문제를 끝까지 해결하려는 집념이 강한 최민수입니다!
 <br/>
 
-## 🧑🏻‍💻 Project
+## 📚 Project
 | 기간 | 프로젝트명 | 설명 | 역할 | 형태 |
 |-----|---------|-----|-----|-----|
 | <p align="center"> 2024.07 ~ 진행중 </p> | <p align="center"> 만수무강 </p> | 고령의 노인과 보호자를 위한 헬스케어 서비스 | <p align="center"> 팀 리더 <br/> 백엔드 개발 </p> | <p align="center"> 팀 프로젝트(공모전) </p> |
@@ -15,6 +13,7 @@
 <br/>
   
 ## 🖥️ Tech Stack
+<div>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> 
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> 
@@ -45,14 +44,12 @@
 <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=black">
 <br/>
 <br/>
-
+</div>
 
 ## 🧑🏻‍💻 Activity
-<div>
-
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minnnisu&theme=dark) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minnnisu&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
-</div>
+
 
 
  
