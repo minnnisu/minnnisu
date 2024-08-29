@@ -1,5 +1,10 @@
+<img src="https://github.com/user-attachments/assets/964c9cfa-9812-4f24-bce5-56072de6da6e" width=1000>
+
+
 ## 🙋🏻 Welcome to minnnisu Github
 호기심이 많고, 문제를 끝까지 해결하려는 집념이 강한 최민수입니다!
+
+<img src="https://github.com/user-attachments/assets/b1fb013c-6fed-4254-892d-41c8ad8ae760" width=100>
 <br/>
 
 ## 📚 Project
