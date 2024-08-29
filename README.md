@@ -15,19 +15,15 @@
 <br/>
   
 ## 🖥️ Tech Stack
-### Front-End
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> 
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-<br/>
-
-### Back-End
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> 
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
 <br/>
+<br/>
 
-### Etc
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
 <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> 
 <img src="https://img.shields.io/badge/SQL SERVER-41454A?style=for-the-badge&logoColor=white"> 
@@ -37,19 +33,26 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <br/>
+<br/>
 
-<h2>🧑🏻‍💻 Activity</h2><div>
+<img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=black">
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=black">
+<img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black">
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black">
+<img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=black">
+<br/>
+<br/>
+
+
+## 🧑🏻‍💻 Activity
 <div>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minnnisu&theme=algolia) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minnnisu)](https://github.com/anuraghazra/github-readme-stats) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minnnisu&theme=dark) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minnnisu&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 </div>
-<div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minnnisu&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
-
 
 
  
