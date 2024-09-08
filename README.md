@@ -1,9 +1,13 @@
+## <img src="https://github.com/user-attachments/assets/b1fb013c-6fed-4254-892d-41c8ad8ae760" width=26>  Welcome to minnnisu Github  <img src="https://github.com/user-attachments/assets/f3e67c1f-479e-4bf8-88d8-cb72140bb010" width="26">
 <img src="https://github.com/user-attachments/assets/25b97e10-43e8-41f6-a09b-1d4e6d248bb0" width=1000>
 
-## 🙋🏻 Welcome to minnnisu Github
-호기심이 많고, 문제를 끝까지 해결하려는 집념이 강한 최민수입니다!
 
-<img src="https://github.com/user-attachments/assets/b1fb013c-6fed-4254-892d-41c8ad8ae760" width=100>
+
+
+### 호기심이 많고, 문제를 끝까지 해결하려는 집념이 강한 개발자 최민수입니다! <br/>
+서버 개발에 관심이 많으며 요즘은 Spring Boot를 공부하고 이를 활용하여 웹 어플리케이션에 개발하는 것에 집중하고 있습니다. <br/>
+이와 더불어 CI/CD 구축, AWS를 통한 배포 등 서버 개발을 위한 다양한 기술을 공부하고 있습니다. <br/>
+궁금한 것이 많고 부족한 점도 많기 때문에 지식을 넗혀가며 좋은 개발자로 성장하고 싶습니다.
 
 <br/>
 <br/>
@@ -60,7 +64,3 @@
 ## 🧑🏻‍💻 Activity
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minnnisu&theme=dark) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minnnisu&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
-
-
-
- 
