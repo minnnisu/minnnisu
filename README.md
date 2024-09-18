@@ -1,8 +1,8 @@
+<img alt="Static Badge" src="https://img.shields.io/badge/velog-20C997?logo=velog&logoColor=white&link=https%3A%2F%2Fvelog.io%2F%40developer-daily%2Fposts"> <img alt="Static Badge" src="https://img.shields.io/badge/mine52100%40naver.com-%2303C75A?logo=naver&logoColor=white">
+
+
 ## <img src="https://github.com/user-attachments/assets/b1fb013c-6fed-4254-892d-41c8ad8ae760" width=26>  Welcome to minnnisu Github  <img src="https://github.com/user-attachments/assets/f3e67c1f-479e-4bf8-88d8-cb72140bb010" width="26">
 <img src="https://github.com/user-attachments/assets/25b97e10-43e8-41f6-a09b-1d4e6d248bb0" width=1000>
-
-
-
 
 ### 호기심이 많고, 문제를 끝까지 해결하려는 집념이 강한 개발자 최민수입니다! <br/>
 서버 개발에 관심이 많으며 요즘은 Spring Boot를 공부하고 이를 활용하여 웹 어플리케이션에 개발하는 것에 집중하고 있습니다. <br/>
