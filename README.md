@@ -1,7 +1,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/velog-20C997?logo=velog&logoColor=white&link=https%3A%2F%2Fvelog.io%2F%40developer-daily%2Fposts"> <img alt="Static Badge" src="https://img.shields.io/badge/mine52100%40naver.com-%2303C75A?logo=naver&logoColor=white">
 
 
-## <img src="https://github.com/user-attachments/assets/b1fb013c-6fed-4254-892d-41c8ad8ae760" width=26>  Welcome to minnnisu Github  <img src="https://github.com/user-attachments/assets/f3e67c1f-479e-4bf8-88d8-cb72140bb010" width="26">
+## <img src="https://github.com/user-attachments/assets/b1fb013c-6fed-4254-892d-41c8ad8ae760" width=26>  Welcome to minnnisu's Github  <img src="https://github.com/user-attachments/assets/f3e67c1f-479e-4bf8-88d8-cb72140bb010" width="26">
 <img src="https://github.com/user-attachments/assets/25b97e10-43e8-41f6-a09b-1d4e6d248bb0" width=1000>
 
 ### 호기심이 많고, 문제를 끝까지 해결하려는 집념이 강한 개발자 최민수입니다! <br/>
@@ -15,11 +15,10 @@
 ## 📚 Project
 | 기간 | 프로젝트명 | 설명 | 역할 | 형태 |
 |-----|---------|-----|-----|-----|
-| <p align="center"> 2024.07 ~ 진행중 </p> | <p align="center"> 만수무강 </p> | 고령의 노인과 보호자를 위한 헬스케어 서비스 | <p align="center"> 팀 리더 <br/> 백엔드 개발 </p> | <p align="center"> 팀 프로젝트(공모전) </p> |
-| <p align="center"> 2024.03 ~ 진행중 </p> | <p align="center"> 한끼 절약 </p> | 동시간대에 함께 배달음식을 주문하고 싶은 대학생들을 모아주는 앱 기반 어플리케이션 | <p align="center"> 프론트엔드 개발 <br/> 벡엔드 개발  </p> | <p align="center"> 개인 프로젝트(캡스톤) </p> |
+| <p align="center"> 2024.10 ~ 진행중 </p> | <p align="center"> 스터디싱크 </p> | 개발자들의 코딩 스터디 관리를 도와주는 코딩 스터디 어플리케이션 | <p align="center"> 벡엔드 개발 </p> | <p align="center"> 팀 프로젝트 </p> |
+| <p align="center"> 2024.07 ~ 2024.09 </p> | <p align="center"> 만수무강 </p> | 고령의 노인과 보호자를 위한 헬스케어 서비스 | <p align="center"> 팀 리더 <br/> 백엔드 개발 </p> | <p align="center"> 팀 프로젝트(공모전) </p> |
 | <p align="center"> 2023.11 ~ 2023.12 </p> | <p align="center"> 사과마켓 </p> | 중고 물품을 경매를 사고 파는 거래 서비스 | <p align="center"> 팀 리더 <br/> 프론트엔드 <br/> 백엔드 개발 </p> | <p align="center"> 팀 프로젝트 </p> |
 | <p align="center"> 2023.04 ~ 2023.05 </p> | <p align="center"> AI 머리 염색 </p> | Stable Diffusion을 이용한 머리 염색 이미지 생성기 | <p align="center"> 프론트엔드 개발 <br/> 백엔드 개발 </p> | <p align="center"> 개인 프로젝트 </p> |
-| <p align="center"> 2023.03 ~ 2023.05 </p> | <p align="center"> HealthBit </p> | 블록체인 기반의 의료 정보 관리 서비스 | <p align="center"> 프론트엔드 개발 </p> | <p align="center"> 팀 프로젝트 </p> |
 
 <br/>
 <br/>
