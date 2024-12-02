@@ -2,14 +2,12 @@
 
 
 ## <img src="https://github.com/user-attachments/assets/b1fb013c-6fed-4254-892d-41c8ad8ae760" width=26>  Welcome to minnnisu's Github  <img src="https://github.com/user-attachments/assets/f3e67c1f-479e-4bf8-88d8-cb72140bb010" width="26">
-<img src="https://github.com/user-attachments/assets/25b97e10-43e8-41f6-a09b-1d4e6d248bb0" width=1000>
 
 ### 호기심이 많고, 문제를 끝까지 해결하려는 집념이 강한 개발자 최민수입니다! <br/>
 서버 개발에 관심이 많으며 요즘은 Spring Boot를 공부하고 이를 활용하여 웹 어플리케이션에 개발하는 것에 집중하고 있습니다. <br/>
 이와 더불어 CI/CD 구축, AWS를 통한 배포 등 서버 개발을 위한 다양한 기술을 공부하고 있습니다. <br/>
 궁금한 것이 많고 부족한 점도 많기 때문에 지식을 넗혀가며 좋은 개발자로 성장하고 싶습니다.
 
-<br/>
 <br/>
 
 ## 📚 Project
@@ -21,6 +19,13 @@
 | <p align="center"> 2023.04 ~ 2023.05 </p> | <p align="center"> AI 머리 염색 </p> | Stable Diffusion을 이용한 머리 염색 이미지 생성기 | <p align="center"> 프론트엔드 개발 <br/> 백엔드 개발 </p> | <p align="center"> 개인 프로젝트 </p> |
 
 <br/>
+
+## 🏆 Award
+2024 경주 지역문제해결 해커톤 | 동국대학교 WISE 캠퍼스 LINC 3.0 사업단 | 대상
+<br/>
+교내 우수 논문 | 동국대학교 WISE | 우수상
+
+
 <br/>
   
 ## 🖥️ Tech Stack
@@ -32,7 +37,6 @@
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
 <br/>
-<br/>
 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
 <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> 
@@ -43,13 +47,11 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <br/>
-<br/>
 
 <img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=black">
 <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=black">
 <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black">
 <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=black">
-<br/>
 <br/>
 
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black">
