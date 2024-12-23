@@ -13,7 +13,7 @@
 ## 📚 Project
 | 기간 | 프로젝트명 | 설명 | 역할 | 형태 |
 |-----|---------|-----|-----|-----|
-| <p align="center"> 2024.10 ~ 진행중 </p> | <p align="center"> 스터디싱크 </p> | 개발자들의 코딩 스터디 관리를 도와주는 코딩 스터디 어플리케이션 | <p align="center"> 벡엔드 개발 </p> | <p align="center"> 팀 프로젝트 </p> |
+| <p align="center"> 2024.03 ~ 진행중 </p> | <p align="center"> 한끼절약 </p> | 대학생을 위한 배달 음식 공동 주문 서비스 | <p align="center"> 풀스택 개발 </p> | <p align="center"> 개인 프로젝트 </p> |
 | <p align="center"> 2024.07 ~ 2024.09 </p> | <p align="center"> 만수무강 </p> | 고령의 노인과 보호자를 위한 헬스케어 서비스 | <p align="center"> 팀 리더 <br/> 백엔드 개발 </p> | <p align="center"> 팀 프로젝트(공모전) </p> |
 | <p align="center"> 2023.11 ~ 2023.12 </p> | <p align="center"> 사과마켓 </p> | 중고 물품을 경매를 사고 파는 거래 서비스 | <p align="center"> 팀 리더 <br/> 프론트엔드 <br/> 백엔드 개발 </p> | <p align="center"> 팀 프로젝트 </p> |
 | <p align="center"> 2023.04 ~ 2023.05 </p> | <p align="center"> AI 머리 염색 </p> | Stable Diffusion을 이용한 머리 염색 이미지 생성기 | <p align="center"> 프론트엔드 개발 <br/> 백엔드 개발 </p> | <p align="center"> 개인 프로젝트 </p> |
