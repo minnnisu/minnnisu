@@ -35,5 +35,6 @@
 <br/>
 
 ## 🔥 Activity
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minnnisu&theme=dark) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minnnisu&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------- | ------------- |
+
+| <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mine5210" /> | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minnnisu&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minnnisu&theme=dark) |
+| ------------- | ------------- | ------------- |
