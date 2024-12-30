@@ -9,7 +9,7 @@
 ## 📖 Project
 | 기간 | 프로젝트명 | 설명 | 역할 | 형태 |
 |-----|---------|-----|-----|-----|
-| <p align="center"> 2024.11 ~ 2024.11 </p> | <p align="center"> 함께, 경주 </p> | 카드 형태의 숏폼을 이용한 경주시와 시민의 정책 소통 플랫폼 | <p align="center"> 백엔드 개발 </p> | <p align="center"> 팀 프로젝트(해커톤) </p> |
+| <p align="center"> 2024.11 </p> | <p align="center"> 함께, 경주 </p> | 카드 형태의 숏폼을 이용한 경주시와 시민의 정책 소통 플랫폼 | <p align="center"> 백엔드 개발 </p> | <p align="center"> 팀 프로젝트(해커톤) </p> |
 | <p align="center"> 2024.07 ~ 2024.09 </p> | <p align="center"> 만수무강 </p> | 고령의 노인과 보호자를 위한 헬스케어 서비스 | <p align="center"> 팀 리더 <br/> 백엔드 개발 </p> | <p align="center"> 팀 프로젝트(공모전) </p> |
 | <p align="center"> 2024.03 ~ 진행중 </p> | <p align="center"> 한끼절약 </p> | 대학생을 위한 배달 음식 공동 주문 서비스 | <p align="center"> 풀스택 개발 </p> | <p align="center"> 개인 프로젝트 </p> |
 | <p align="center"> 2023.11 ~ 2023.12 </p> | <p align="center"> 사과마켓 </p> | 중고 물품을 경매를 사고 파는 거래 서비스 | <p align="center"> 팀 리더 <br/> 풀스택 개발 | <p align="center"> 팀 프로젝트 </p> |
